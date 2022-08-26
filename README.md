@@ -1,7 +1,7 @@
 # Density_model
 A script to create two Species Distribution Models (1) Occurence (2) Abundance and combine the two models into a hurdle (combined) model.
 
-These scripts are the accompanying code for the following jounral article. Please cite the authors for code used. 
+These scripts are the accompanying code for the following journal article. Please cite the authors for code used. 
 Watson, Stephanie Louise and Stephenson, Fabrice and Conrad, Pilditch A. and Lundquist, Carolyn, Improving Predictions of Coastal Benthic Invertebrate Occurrence and Density Using a Multi-Scalar Approach. Available at SSRN: https://ssrn.com/abstract=4142118 or http://dx.doi.org/10.2139/ssrn.4142118
 
 Abstract
